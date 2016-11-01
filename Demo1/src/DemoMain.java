@@ -5,6 +5,14 @@ public class DemoMain {
 		// TODO Auto-generated method stub
 
 		System.out.println("Welcome to the workd of github demo");
+		method1();
+	}
+	
+	public static void method1(){
+		for(int i=0;i<5;i++){
+			System.out.println("Printing "+i+" time.");
+			
+		}
 	}
 
 }
