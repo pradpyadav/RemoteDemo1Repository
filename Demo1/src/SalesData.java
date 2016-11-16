@@ -6,6 +6,7 @@ public class SalesData {
 		System.out.println("TODO: implement Data display");
 		for (int i : data) {
 			System.out.println("Printing >>> "+i);
+			System.out.println("Enjoyyy now");
 		}
 	}
 }
