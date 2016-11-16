@@ -6,6 +6,8 @@ public class DemoMain {
 
 		System.out.println("Welcome to the workd of github demo");
 		method1();
+		SalesData sd=new SalesData();
+		sd.display();
 	}
 	
 	public static void method1(){
